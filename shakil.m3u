@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg” group-title=”Bangla”, National Geographic Bangla
-http://15.1.5.18:8082/ngohd/index.m3u8?token=eee670e197e61c49bcd5ebe2c2bc6efcc9d40548-ce0788b1428969899bd4a41b9618f5e4-1697874866-1697864066
+http://15.1.5.14:8082/GEO-SUPER/index.m3u8?token=bfbab77b8dc716efa3444dc5096813c763d3bbd5-40ec557d7567f707159f4764d5d4348f-1697876473-1697865673
